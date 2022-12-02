@@ -1,0 +1,15 @@
+{
+  "name": "bot-unifions",
+  "version": "1.0.0",
+  "description": "bot nuit de l'info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "13",
+    "puppeteer": "^19.3.0"
+  }
+}
